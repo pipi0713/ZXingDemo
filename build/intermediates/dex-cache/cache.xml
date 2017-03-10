@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\demo\ZXingDemo\app\libs\core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="F:\demo\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\core_5ba09e127c4263a7b46cf8e78f550dee3772ee76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\demo\ZXingDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ad1784c1c67446507085ca15cd8e12ef3ef62e8">
+        <dex dex="F:\demo\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f31cd489b9b87370ffc646eaa7e9956768aac53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\demo\ZXingDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f420b66e890288488fcf544b6be27fa2b5ba01b">
+        <dex dex="F:\demo\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_45ae84a88142135d21071d90a860b20913e6199a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hua\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\demo\ZXingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_e82845a0321173776eb3486c0fafdb5f5ba890fd\classes.dex" />
+    </item>
+
+</items>
